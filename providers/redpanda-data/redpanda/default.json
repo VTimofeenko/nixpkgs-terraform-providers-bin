@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "d8f8fdf17de95a4d50e6dc874c186a5bb737b5702ac7a6fee685b28fe641836d",
+      "url": "https://github.com/redpanda-data/terraform-provider-redpanda/releases/download/v0.7.0/terraform-provider-redpanda_0.7.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "2f7af55eb120203eb44fd825574b670f54da823f2388ebf2e2666be652c21b9f",
+      "url": "https://github.com/redpanda-data/terraform-provider-redpanda/releases/download/v0.7.0/terraform-provider-redpanda_0.7.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "965dbf526b1eb1b54bea701f98e0fe7028506e121dc750cc7bd4a49aaf163182",
+      "url": "https://github.com/redpanda-data/terraform-provider-redpanda/releases/download/v0.7.0/terraform-provider-redpanda_0.7.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "823a29d62851c9ef5c5dcac1180d9ba6d70362106f6f8c89c83119dcdd31bed2",
+      "url": "https://github.com/redpanda-data/terraform-provider-redpanda/releases/download/v0.7.0/terraform-provider-redpanda_0.7.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "3dac8191fa690f113b620afe290c4059e4e7a64eb72be8373a827e1737d3491f",
+      "url": "https://github.com/redpanda-data/terraform-provider-redpanda/releases/download/v0.7.0/terraform-provider-redpanda_0.7.0_linux_amd64.zip"
+    }
+  },
+  "owner": "redpanda-data",
+  "repo": "redpanda",
+  "version": "0.7.0"
+}
